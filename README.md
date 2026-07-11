@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DrochaS/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Math
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DrochaS/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DrochaS/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
