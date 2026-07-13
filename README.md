@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DrochaS/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/DrochaS/leetcode-solutions/tree/master/0027-remove-element) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/DrochaS/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DrochaS/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DrochaS/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DrochaS/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DrochaS/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
