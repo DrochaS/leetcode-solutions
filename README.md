@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/DrochaS/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/DrochaS/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/DrochaS/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/DrochaS/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/DrochaS/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/DrochaS/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/DrochaS/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/DrochaS/leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/DrochaS/leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/DrochaS/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 <!---LeetCode Topics End-->
