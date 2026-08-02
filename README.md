@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/DrochaS/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/DrochaS/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/DrochaS/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0877-stone-game](https://github.com/DrochaS/leetcode-solutions/tree/master/0877-stone-game) |
 | [0937-reorder-data-in-log-files](https://github.com/DrochaS/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/DrochaS/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DrochaS/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DrochaS/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/DrochaS/leetcode-solutions/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/DrochaS/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DrochaS/leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DrochaS/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
