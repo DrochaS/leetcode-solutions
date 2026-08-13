@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DrochaS/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/DrochaS/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/DrochaS/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/DrochaS/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/DrochaS/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/DrochaS/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DrochaS/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/DrochaS/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/DrochaS/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/DrochaS/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/DrochaS/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/DrochaS/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Depth-First Search
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/DrochaS/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/DrochaS/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/DrochaS/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0937-reorder-data-in-log-files](https://github.com/DrochaS/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 ## Database
