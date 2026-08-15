@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/DrochaS/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0877-stone-game](https://github.com/DrochaS/leetcode-solutions/tree/master/0877-stone-game) |
 | [0937-reorder-data-in-log-files](https://github.com/DrochaS/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
+| [2746-decremental-string-concatenation](https://github.com/DrochaS/leetcode-solutions/tree/master/2746-decremental-string-concatenation) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/DrochaS/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DrochaS/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DrochaS/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DrochaS/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DrochaS/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0937-reorder-data-in-log-files](https://github.com/DrochaS/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
+| [2746-decremental-string-concatenation](https://github.com/DrochaS/leetcode-solutions/tree/master/2746-decremental-string-concatenation) |
 ## Trie
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/DrochaS/leetcode-solutions/tree/master/0877-stone-game) |
+| [2746-decremental-string-concatenation](https://github.com/DrochaS/leetcode-solutions/tree/master/2746-decremental-string-concatenation) |
 ## Game Theory
 |  |
 | ------- |
