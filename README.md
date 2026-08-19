@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DrochaS/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/DrochaS/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/DrochaS/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/DrochaS/leetcode-solutions/tree/main/0018-4sum/) | Medium |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DrochaS/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/DrochaS/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/DrochaS/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DrochaS/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0937-reorder-data-in-log-files](https://github.com/DrochaS/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DrochaS/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0877-stone-game](https://github.com/DrochaS/leetcode-solutions/tree/master/0877-stone-game) |
 | [2746-decremental-string-concatenation](https://github.com/DrochaS/leetcode-solutions/tree/master/2746-decremental-string-concatenation) |
 ## Game Theory
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/DrochaS/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DrochaS/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
