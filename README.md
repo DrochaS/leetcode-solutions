@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DrochaS/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/DrochaS/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/DrochaS/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/DrochaS/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/DrochaS/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/DrochaS/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/DrochaS/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/DrochaS/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0937-reorder-data-in-log-files](https://github.com/DrochaS/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DrochaS/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/DrochaS/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DrochaS/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/DrochaS/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/DrochaS/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
