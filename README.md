@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DrochaS/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/DrochaS/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DrochaS/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DrochaS/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/DrochaS/leetcode-solutions/tree/master/0877-stone-game) |
