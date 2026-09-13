@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DrochaS/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/DrochaS/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/DrochaS/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/DrochaS/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DrochaS/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0937-reorder-data-in-log-files](https://github.com/DrochaS/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
