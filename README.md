@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/DrochaS/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/DrochaS/leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/DrochaS/leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
 ## Design
